@@ -1,0 +1,5 @@
+cisco cisco
+cisco cisco
+origin	git@github.com:dato-sukhiashvili/my-project.git (fetch)
+origin	git@github.com:dato-sukhiashvili/my-project.git (push)
+
